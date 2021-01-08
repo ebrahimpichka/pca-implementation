@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is a simple implementation of the PCA algorithm for dimentionality reduction in python.
+This project is a simple implementation of the PCA algorithm for dimensionality reduction in python.
 It is done both in an OOP version which the PCA class could be imported in a seperate project and be used, and in a simple fuction to be used in a stand-alone script.
 clearly this project is for educational purposes and does not have much practical power,
 for more practical uses one could refer to [scikit-learns's](https://github.com/scikit-learn/scikit-learn) packages.
